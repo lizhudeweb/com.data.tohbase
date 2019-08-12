@@ -23,6 +23,9 @@ import org.apache.hadoop.hbase.client.ResultScanner;
 import org.apache.hadoop.hbase.client.Scan;
 import org.apache.hadoop.hbase.util.Bytes;
 
+
+
+
 /**
  * @Description: 旧版Api
  * window下要配置hosts
